@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/PP-plenki/static/css/main.ccda9953.css",
+    "main.js": "/PP-plenki/static/js/main.0eae67ef.js",
+    "static/js/453.df27121a.chunk.js": "/PP-plenki/static/js/453.df27121a.chunk.js",
+    "static/media/ring-from-header.png": "/PP-plenki/static/media/ring-from-header.45a6ac51dc09714cedc7.png",
+    "static/media/Montserrat-VariableFont_wght.woff2": "/PP-plenki/static/media/Montserrat-VariableFont_wght.29d23d38bf1ff3e03263.woff2",
+    "static/media/Jost-VariableFont_wght.woff2": "/PP-plenki/static/media/Jost-VariableFont_wght.628ce35bd19ccfdccc08.woff2",
+    "static/media/icon_section-title.svg": "/PP-plenki/static/media/icon_section-title.c5a40075ef39412b712d5b521541ed01.svg",
+    "static/media/whatsapp-icon-small.svg": "/PP-plenki/static/media/whatsapp-icon-small.860aabf9c2a0f16090166c638cef01f1.svg",
+    "static/media/icon-whatsapp-section-title.svg": "/PP-plenki/static/media/icon-whatsapp-section-title.021a8c7677b72da9f52c8387e30c14af.svg",
+    "static/media/icon-telegram-section-title.svg": "/PP-plenki/static/media/icon-telegram-section-title.03670865d13a8b0bfe0134e31c071186.svg",
+    "static/media/telegram-icon-small.svg": "/PP-plenki/static/media/telegram-icon-small.c85b6d8af8596d970ac77ee0c51f77d5.svg",
+    "index.html": "/PP-plenki/index.html",
+    "static/media/logo-img.svg": "/PP-plenki/static/media/logo-img.e7f20078f47b70f8103619ee163aacaf.svg",
+    "static/media/tel-icon_small.svg": "/PP-plenki/static/media/tel-icon_small.ec851afe06895d88ffd7b0ba5095a727.svg",
+    "static/media/menu-icon.svg": "/PP-plenki/static/media/menu-icon.b8e2689ba041bc994ef1926f1ddc3f7c.svg",
+    "main.ccda9953.css.map": "/PP-plenki/static/css/main.ccda9953.css.map",
+    "main.0eae67ef.js.map": "/PP-plenki/static/js/main.0eae67ef.js.map",
+    "453.df27121a.chunk.js.map": "/PP-plenki/static/js/453.df27121a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccda9953.css",
+    "static/js/main.0eae67ef.js"
+  ]
+}
