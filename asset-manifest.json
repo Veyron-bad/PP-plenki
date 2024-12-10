@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/PP-plenki/static/css/main.3a45e33d.css",
-    "main.js": "/PP-plenki/static/js/main.0eae67ef.js",
+    "main.css": "/PP-plenki/static/css/main.38751f7e.css",
+    "main.js": "/PP-plenki/static/js/main.b262df9c.js",
     "static/js/453.df27121a.chunk.js": "/PP-plenki/static/js/453.df27121a.chunk.js",
     "static/media/ring-from-header.png": "/PP-plenki/static/media/ring-from-header.45a6ac51dc09714cedc7.png",
     "static/media/Montserrat-VariableFont_wght.woff2": "/PP-plenki/static/media/Montserrat-VariableFont_wght.29d23d38bf1ff3e03263.woff2",
@@ -15,12 +15,12 @@
     "static/media/logo-img.svg": "/PP-plenki/static/media/logo-img.e7f20078f47b70f8103619ee163aacaf.svg",
     "static/media/tel-icon_small.svg": "/PP-plenki/static/media/tel-icon_small.ec851afe06895d88ffd7b0ba5095a727.svg",
     "static/media/menu-icon.svg": "/PP-plenki/static/media/menu-icon.b8e2689ba041bc994ef1926f1ddc3f7c.svg",
-    "main.3a45e33d.css.map": "/PP-plenki/static/css/main.3a45e33d.css.map",
-    "main.0eae67ef.js.map": "/PP-plenki/static/js/main.0eae67ef.js.map",
+    "main.38751f7e.css.map": "/PP-plenki/static/css/main.38751f7e.css.map",
+    "main.b262df9c.js.map": "/PP-plenki/static/js/main.b262df9c.js.map",
     "453.df27121a.chunk.js.map": "/PP-plenki/static/js/453.df27121a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a45e33d.css",
-    "static/js/main.0eae67ef.js"
+    "static/css/main.38751f7e.css",
+    "static/js/main.b262df9c.js"
   ]
 }
