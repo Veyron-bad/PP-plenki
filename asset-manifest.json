@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PP-plenki/static/css/main.d2ac4546.css",
-    "main.js": "/PP-plenki/static/js/main.9b496f9d.js",
+    "main.js": "/PP-plenki/static/js/main.7d96f553.js",
     "static/js/453.df27121a.chunk.js": "/PP-plenki/static/js/453.df27121a.chunk.js",
     "static/media/ring-from-header.png": "/PP-plenki/static/media/ring-from-header.45a6ac51dc09714cedc7.png",
     "static/media/Montserrat-VariableFont_wght.woff2": "/PP-plenki/static/media/Montserrat-VariableFont_wght.29d23d38bf1ff3e03263.woff2",
@@ -16,11 +16,11 @@
     "static/media/tel-icon_small.svg": "/PP-plenki/static/media/tel-icon_small.ec851afe06895d88ffd7b0ba5095a727.svg",
     "static/media/menu-icon.svg": "/PP-plenki/static/media/menu-icon.b8e2689ba041bc994ef1926f1ddc3f7c.svg",
     "main.d2ac4546.css.map": "/PP-plenki/static/css/main.d2ac4546.css.map",
-    "main.9b496f9d.js.map": "/PP-plenki/static/js/main.9b496f9d.js.map",
+    "main.7d96f553.js.map": "/PP-plenki/static/js/main.7d96f553.js.map",
     "453.df27121a.chunk.js.map": "/PP-plenki/static/js/453.df27121a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d2ac4546.css",
-    "static/js/main.9b496f9d.js"
+    "static/js/main.7d96f553.js"
   ]
 }
