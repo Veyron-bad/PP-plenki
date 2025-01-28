@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/PP-plenki/static/css/main.b1cb9ac4.css",
-    "main.js": "/PP-plenki/static/js/main.f7164fdc.js",
+    "main.css": "/PP-plenki/static/css/main.da7d1c9a.css",
+    "main.js": "/PP-plenki/static/js/main.db98cefc.js",
     "static/js/453.df27121a.chunk.js": "/PP-plenki/static/js/453.df27121a.chunk.js",
     "static/media/ring-from-header.png": "/PP-plenki/static/media/ring-from-header.45a6ac51dc09714cedc7.png",
     "static/media/service-intro_img.jpg": "/PP-plenki/static/media/service-intro_img.93afadf56f3577906351.jpg",
@@ -9,7 +9,11 @@
     "static/media/bmw_service_100.png": "/PP-plenki/static/media/bmw_service_100.701dae925a5321555a73.png",
     "static/media/bmw_service_80.png": "/PP-plenki/static/media/bmw_service_80.e489a9b064e73abd3fd0.png",
     "static/media/bmw_service_60.png": "/PP-plenki/static/media/bmw_service_60.1ffbb08aa6b8e3dc9d25.png",
+    "static/media/car_geely.png": "/PP-plenki/static/media/car_geely.eed1c93898cfd6517834.png",
+    "static/media/car_tesla.png": "/PP-plenki/static/media/car_tesla.1007d4f5fc60a1b16f40.png",
     "static/media/Jost-VariableFont_wght.woff2": "/PP-plenki/static/media/Jost-VariableFont_wght.628ce35bd19ccfdccc08.woff2",
+    "static/media/car_lexus.png": "/PP-plenki/static/media/car_lexus.d2db717b070ee8ccb88d.png",
+    "static/media/car_g-class.jpg": "/PP-plenki/static/media/car_g-class.2592f627617abccaa873.jpg",
     "static/media/icon_section-title.svg": "/PP-plenki/static/media/icon_section-title.c5a40075ef39412b712d5b521541ed01.svg",
     "static/media/whatsapp-icon-small.svg": "/PP-plenki/static/media/whatsapp-icon-small.860aabf9c2a0f16090166c638cef01f1.svg",
     "static/media/whatsapp-icon-white.svg": "/PP-plenki/static/media/whatsapp-icon-white.4181485bd15f65555daf.svg",
@@ -19,16 +23,17 @@
     "static/media/telegramm-icon-white.svg": "/PP-plenki/static/media/telegramm-icon-white.8df5a0b89142807493b7.svg",
     "static/media/icon-telegram-section-title.svg": "/PP-plenki/static/media/icon-telegram-section-title.03670865d13a8b0bfe0134e31c071186.svg",
     "static/media/telegram-icon-small.svg": "/PP-plenki/static/media/telegram-icon-small.c85b6d8af8596d970ac77ee0c51f77d5.svg",
+    "static/media/img_p_difference.svg": "/PP-plenki/static/media/img_p_difference.5396f0cc898ee98f818225132c1f3e55.svg",
     "index.html": "/PP-plenki/index.html",
     "static/media/logo-img.svg": "/PP-plenki/static/media/logo-img.e7f20078f47b70f8103619ee163aacaf.svg",
     "static/media/tel-icon_small.svg": "/PP-plenki/static/media/tel-icon_small.ec851afe06895d88ffd7b0ba5095a727.svg",
     "static/media/menu-icon.svg": "/PP-plenki/static/media/menu-icon.b8e2689ba041bc994ef1926f1ddc3f7c.svg",
-    "main.b1cb9ac4.css.map": "/PP-plenki/static/css/main.b1cb9ac4.css.map",
-    "main.f7164fdc.js.map": "/PP-plenki/static/js/main.f7164fdc.js.map",
+    "main.da7d1c9a.css.map": "/PP-plenki/static/css/main.da7d1c9a.css.map",
+    "main.db98cefc.js.map": "/PP-plenki/static/js/main.db98cefc.js.map",
     "453.df27121a.chunk.js.map": "/PP-plenki/static/js/453.df27121a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b1cb9ac4.css",
-    "static/js/main.f7164fdc.js"
+    "static/css/main.da7d1c9a.css",
+    "static/js/main.db98cefc.js"
   ]
 }
