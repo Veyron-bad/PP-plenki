@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/PP-plenki/static/css/main.f7a8a37c.css",
-    "main.js": "/PP-plenki/static/js/main.4fc0d71f.js",
+    "main.css": "/PP-plenki/static/css/main.2b577e92.css",
+    "main.js": "/PP-plenki/static/js/main.f5697810.js",
     "static/js/453.df27121a.chunk.js": "/PP-plenki/static/js/453.df27121a.chunk.js",
     "static/media/interior_background.png": "/PP-plenki/static/media/interior_background.7cc2f919b971438861e2.png",
+    "static/media/bubbles.png": "/PP-plenki/static/media/bubbles.45c63f89eb38e633d376.png",
     "static/media/order_background.jpg": "/PP-plenki/static/media/order_background.8e6c50baf53bee66eb94.jpg",
     "static/media/ring-from-header.png": "/PP-plenki/static/media/ring-from-header.45a6ac51dc09714cedc7.png",
     "static/media/roll_1920.png": "/PP-plenki/static/media/roll_1920.8ca519305f48de463612.png",
@@ -43,12 +44,12 @@
     "static/media/tel-icon_small.svg": "/PP-plenki/static/media/tel-icon_small.ec851afe06895d88ffd7b0ba5095a727.svg",
     "static/media/menu-icon.svg": "/PP-plenki/static/media/menu-icon.b8e2689ba041bc994ef1926f1ddc3f7c.svg",
     "static/media/triangle.svg": "/PP-plenki/static/media/triangle.ce1e3d832b70572d319f.svg",
-    "main.f7a8a37c.css.map": "/PP-plenki/static/css/main.f7a8a37c.css.map",
-    "main.4fc0d71f.js.map": "/PP-plenki/static/js/main.4fc0d71f.js.map",
+    "main.2b577e92.css.map": "/PP-plenki/static/css/main.2b577e92.css.map",
+    "main.f5697810.js.map": "/PP-plenki/static/js/main.f5697810.js.map",
     "453.df27121a.chunk.js.map": "/PP-plenki/static/js/453.df27121a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7a8a37c.css",
-    "static/js/main.4fc0d71f.js"
+    "static/css/main.2b577e92.css",
+    "static/js/main.f5697810.js"
   ]
 }
