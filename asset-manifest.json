@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/PP-plenki/static/css/main.0086251b.css",
-    "main.js": "/PP-plenki/static/js/main.2be952e0.js",
+    "main.css": "/PP-plenki/static/css/main.697ce04f.css",
+    "main.js": "/PP-plenki/static/js/main.0fbb5730.js",
     "static/js/453.df27121a.chunk.js": "/PP-plenki/static/js/453.df27121a.chunk.js",
     "static/media/interior_background.png": "/PP-plenki/static/media/interior_background.7cc2f919b971438861e2.png",
     "static/media/bubbles.png": "/PP-plenki/static/media/bubbles.45c63f89eb38e633d376.png",
@@ -46,12 +46,12 @@
     "static/media/tel-icon_small.svg": "/PP-plenki/static/media/tel-icon_small.ec851afe06895d88ffd7b0ba5095a727.svg",
     "static/media/menu-icon.svg": "/PP-plenki/static/media/menu-icon.b8e2689ba041bc994ef1926f1ddc3f7c.svg",
     "static/media/triangle.svg": "/PP-plenki/static/media/triangle.ce1e3d832b70572d319f.svg",
-    "main.0086251b.css.map": "/PP-plenki/static/css/main.0086251b.css.map",
-    "main.2be952e0.js.map": "/PP-plenki/static/js/main.2be952e0.js.map",
+    "main.697ce04f.css.map": "/PP-plenki/static/css/main.697ce04f.css.map",
+    "main.0fbb5730.js.map": "/PP-plenki/static/js/main.0fbb5730.js.map",
     "453.df27121a.chunk.js.map": "/PP-plenki/static/js/453.df27121a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0086251b.css",
-    "static/js/main.2be952e0.js"
+    "static/css/main.697ce04f.css",
+    "static/js/main.0fbb5730.js"
   ]
 }
