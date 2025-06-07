@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/PP-plenki/static/css/main.8483c292.css",
-    "main.js": "/PP-plenki/static/js/main.0fbb5730.js",
+    "main.css": "/PP-plenki/static/css/main.e41fb4eb.css",
+    "main.js": "/PP-plenki/static/js/main.251b22ad.js",
     "static/js/453.df27121a.chunk.js": "/PP-plenki/static/js/453.df27121a.chunk.js",
     "static/media/interior_background.png": "/PP-plenki/static/media/interior_background.7cc2f919b971438861e2.png",
     "static/media/bubbles.png": "/PP-plenki/static/media/bubbles.45c63f89eb38e633d376.png",
     "static/media/background_car_new.png": "/PP-plenki/static/media/background_car_new.aac6ac6f36faefa299b3.png",
     "static/media/order_background.jpg": "/PP-plenki/static/media/order_background.8e6c50baf53bee66eb94.jpg",
+    "static/media/questions_background.png": "/PP-plenki/static/media/questions_background.aac5f0922cb6db1a306e.png",
     "static/media/bubbles__header.png": "/PP-plenki/static/media/bubbles__header.45a6ac51dc09714cedc7.png",
     "static/media/ring-from-header.png": "/PP-plenki/static/media/ring-from-header.45a6ac51dc09714cedc7.png",
     "static/media/roll_1920.png": "/PP-plenki/static/media/roll_1920.8ca519305f48de463612.png",
@@ -45,13 +46,15 @@
     "static/media/logo-img.svg": "/PP-plenki/static/media/logo-img.e7f20078f47b70f8103619ee163aacaf.svg",
     "static/media/tel-icon_small.svg": "/PP-plenki/static/media/tel-icon_small.ec851afe06895d88ffd7b0ba5095a727.svg",
     "static/media/menu-icon.svg": "/PP-plenki/static/media/menu-icon.b8e2689ba041bc994ef1926f1ddc3f7c.svg",
+    "static/media/plus_from_questions.svg": "/PP-plenki/static/media/plus_from_questions.e30293ee19d3cb97e747.svg",
+    "static/media/minus_from_question.svg": "/PP-plenki/static/media/minus_from_question.79aa37503483a2578c28.svg",
     "static/media/triangle.svg": "/PP-plenki/static/media/triangle.ce1e3d832b70572d319f.svg",
-    "main.8483c292.css.map": "/PP-plenki/static/css/main.8483c292.css.map",
-    "main.0fbb5730.js.map": "/PP-plenki/static/js/main.0fbb5730.js.map",
+    "main.e41fb4eb.css.map": "/PP-plenki/static/css/main.e41fb4eb.css.map",
+    "main.251b22ad.js.map": "/PP-plenki/static/js/main.251b22ad.js.map",
     "453.df27121a.chunk.js.map": "/PP-plenki/static/js/453.df27121a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8483c292.css",
-    "static/js/main.0fbb5730.js"
+    "static/css/main.e41fb4eb.css",
+    "static/js/main.251b22ad.js"
   ]
 }
