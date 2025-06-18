@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/PP-plenki/static/css/main.4ea4d14d.css",
-    "main.js": "/PP-plenki/static/js/main.7900272f.js",
+    "main.css": "/PP-plenki/static/css/main.ad822c4d.css",
+    "main.js": "/PP-plenki/static/js/main.781ce10f.js",
     "static/js/453.df27121a.chunk.js": "/PP-plenki/static/js/453.df27121a.chunk.js",
     "static/media/interior_background.png": "/PP-plenki/static/media/interior_background.7cc2f919b971438861e2.png",
     "static/media/elips.png": "/PP-plenki/static/media/elips.68feead5d9ad00f62398.png",
@@ -30,6 +30,7 @@
     "static/media/car_g-class.jpg": "/PP-plenki/static/media/car_g-class.2592f627617abccaa873.jpg",
     "static/media/lumar_icon.png": "/PP-plenki/static/media/lumar_icon.c34dd11b6dfc270083b1.png",
     "static/media/icon_section-title.svg": "/PP-plenki/static/media/icon_section-title.c5a40075ef39412b712d5b521541ed01.svg",
+    "static/media/developer-icon.svg": "/PP-plenki/static/media/developer-icon.98dfa28ccdc41fc8c35c7ab01c9188ac.svg",
     "static/media/whatsapp-icon-small.svg": "/PP-plenki/static/media/whatsapp-icon-small.860aabf9c2a0f16090166c638cef01f1.svg",
     "static/media/whatsapp-icon-white.svg": "/PP-plenki/static/media/whatsapp-icon-white.4181485bd15f65555daf.svg",
     "static/media/whatsapp-icon_big.svg": "/PP-plenki/static/media/whatsapp-icon_big.6d578a4b7a4e1a80a2063640da76a728.svg",
@@ -54,12 +55,12 @@
     "static/media/plus_from_questions.svg": "/PP-plenki/static/media/plus_from_questions.e30293ee19d3cb97e747.svg",
     "static/media/minus_from_question.svg": "/PP-plenki/static/media/minus_from_question.79aa37503483a2578c28.svg",
     "static/media/triangle.svg": "/PP-plenki/static/media/triangle.ce1e3d832b70572d319f.svg",
-    "main.4ea4d14d.css.map": "/PP-plenki/static/css/main.4ea4d14d.css.map",
-    "main.7900272f.js.map": "/PP-plenki/static/js/main.7900272f.js.map",
+    "main.ad822c4d.css.map": "/PP-plenki/static/css/main.ad822c4d.css.map",
+    "main.781ce10f.js.map": "/PP-plenki/static/js/main.781ce10f.js.map",
     "453.df27121a.chunk.js.map": "/PP-plenki/static/js/453.df27121a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ea4d14d.css",
-    "static/js/main.7900272f.js"
+    "static/css/main.ad822c4d.css",
+    "static/js/main.781ce10f.js"
   ]
 }
