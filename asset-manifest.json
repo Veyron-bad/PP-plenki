@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/PP-plenki/static/css/main.2343cb8d.css",
-    "main.js": "/PP-plenki/static/js/main.7a29ede7.js",
+    "main.css": "/PP-plenki/static/css/main.03e02b1a.css",
+    "main.js": "/PP-plenki/static/js/main.ed440d5c.js",
     "static/js/453.df27121a.chunk.js": "/PP-plenki/static/js/453.df27121a.chunk.js",
     "static/media/interior_background.png": "/PP-plenki/static/media/interior_background.7cc2f919b971438861e2.png",
     "static/media/elips.png": "/PP-plenki/static/media/elips.68feead5d9ad00f62398.png",
@@ -57,12 +57,12 @@
     "static/media/plus_from_questions.svg": "/PP-plenki/static/media/plus_from_questions.e30293ee19d3cb97e747.svg",
     "static/media/minus_from_question.svg": "/PP-plenki/static/media/minus_from_question.79aa37503483a2578c28.svg",
     "static/media/triangle.svg": "/PP-plenki/static/media/triangle.ce1e3d832b70572d319f.svg",
-    "main.2343cb8d.css.map": "/PP-plenki/static/css/main.2343cb8d.css.map",
-    "main.7a29ede7.js.map": "/PP-plenki/static/js/main.7a29ede7.js.map",
+    "main.03e02b1a.css.map": "/PP-plenki/static/css/main.03e02b1a.css.map",
+    "main.ed440d5c.js.map": "/PP-plenki/static/js/main.ed440d5c.js.map",
     "453.df27121a.chunk.js.map": "/PP-plenki/static/js/453.df27121a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2343cb8d.css",
-    "static/js/main.7a29ede7.js"
+    "static/css/main.03e02b1a.css",
+    "static/js/main.ed440d5c.js"
   ]
 }
